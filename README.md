@@ -48,7 +48,7 @@ fonts/
 ...
 ```
 
-- **lib/**: Contains sources used in the app. (I'm too lazy to separate the folders)
+- **lib/**: Contains sources used in the app. (I'm too lazy to separate the files)
 - **assets**: Contains images, fonts, and other static assets.
 
 ## Contributing
