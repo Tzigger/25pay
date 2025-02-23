@@ -1,6 +1,6 @@
-var FINAL = 'Iasi - 110 RON - aboname...';
-var Final2 = 'Iasi - 110 RON- abonament 30 d...';
-var qrpage = 'Metropolitan 110 RON 30 de zile';
+var FINAL = 'Iasi - 130 RON - aboname...';
+var Final2 = 'Iasi - 130 RON- abonament 30 d...';
+var qrpage = 'Metropolitan 130 RON 30 de zile';
 
 //var normalw = 350; //adaptare pt ionel
 //var normalh = 325;//adpatare pt ionel
